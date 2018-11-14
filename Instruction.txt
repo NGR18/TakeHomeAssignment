@@ -1,0 +1,3 @@
+First, Run Python File directly(F5) or run commend in console !Python ETLweather.py (check the file location before running)
+Second, Import morese.csv, hourlyweather.csv, dailyweather.csv, into database
+Third, Run query Report1.sql and Report2.sql in database
